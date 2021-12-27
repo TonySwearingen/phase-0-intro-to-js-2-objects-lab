@@ -1,1 +1,9 @@
-// Write your solution in this file!
+const updateEmployeeWithKeyAndValue = {
+    employee: {
+        key:"name",
+        value: {
+            address:streetAddress,
+        }
+    }
+}
+employee.name = "Sam";
