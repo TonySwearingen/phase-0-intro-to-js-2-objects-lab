@@ -1,9 +1,7 @@
-const updateEmployeeWithKeyAndValue = {
-    employee: {
-        key:"name",
-        value: {
-            address:streetAddress,
-        }
-    }
+let employee = {
+    name: "name",
+    address: "address"
+};
+function updateEmployeeWithKeyAndValue(employee, key, value) {
+    
 }
-employee.name = "Sam";
